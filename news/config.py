@@ -1,0 +1,2 @@
+class Config:
+    NEWS_API_KEY = "pub_294702b38bd79a71194e31062f4a260551d09"
